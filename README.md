@@ -2,7 +2,7 @@
 
 Skills: Python | Hacker | Bug Hunter | Machine Learning | Android Development
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nagarajcruze0&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=nagarajcruze&show_icons=true)
 
 
 ![Profile views](https://gpvc.arturio.dev/nagarajcruze)  

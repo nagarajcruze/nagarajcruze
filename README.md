@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nagaraj Cruze
 
-Skills:  Hacker | Bug Hunter | Python | Machine Learning | Android Development
+Skills:  Hacker | Bug Hunter | Python | Software Automation Tester
 
 Checkout me @ https://nagarajcruze.ml
 

@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nagaraj Cruze
+### Hi there 👋, my name is Nagaraj Cruze!
 
 Skills:  Hacker | Bug Hunter | Python | Software Automation Tester
 

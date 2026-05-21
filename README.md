@@ -1,7 +1,5 @@
-### Hi there 👋, my name is Nagaraj Cruze!
+### Hi there 👋, my name is Nagaraj!
 
-Skills:  Hacker | Bug Hunter | Python | Software Automation Tester
+Checkout me @ [https://nagarajcruze.github.io](https://nagarajcruze.github.io/)
 
-Checkout me @ https://nagarajcruze.ml
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=nagarajcruze&show_icons=true)
+![Nagaraj's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nagarajcruze&show_icons=true&theme=dark)
